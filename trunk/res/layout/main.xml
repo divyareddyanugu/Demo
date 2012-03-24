@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <Button
+            android:id="@+id/button_tag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="150dp"
+            android:text="Tag"
+            android:width="150dp" />
+
+        <Button
+            android:id="@+id/button_tour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/button_tag"
+            android:layout_alignBottom="@+id/button_tag"
+            android:layout_alignParentRight="true"
+            android:text="Tour"
+            android:width="150dp" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:text="SF Movie Tour"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Spinner
+            android:id="@+id/spinner_selectmovie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/button_tour"
+            android:layout_marginTop="48dp"
+            android:minWidth="200dp"
+            android:width="150dp" />
+
+        <TextView
+            android:id="@+id/selectmovie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/spinner_selectmovie"
+            android:layout_alignBottom="@+id/spinner_selectmovie"
+            android:layout_alignParentLeft="true"
+            android:text="Choose Movie"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/currentlocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/spinner_selectmovie"
+            android:layout_marginTop="54dp"
+            android:text="Current Location"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/or"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/spinner_selectmovie"
+            android:layout_below="@+id/spinner_selectmovie"
+            android:layout_marginTop="24dp"
+            android:text="Or"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <Button
+            android:id="@+id/button_go"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/currentlocation"
+            android:layout_marginTop="32dp"
+            android:layout_toRightOf="@+id/currentlocation"
+            android:text="Go"
+            android:width="100dp" 
+            android:onClick="onClick"/>
+
+    </RelativeLayout>
