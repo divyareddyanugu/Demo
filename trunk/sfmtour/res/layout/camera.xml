@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+   <!--   <SurfaceView
+        
+        android:id="@+id/surfaceCamera"
+        android:layout_width="478px"
+        android:layout_height="650px" />
+
+    <Button
+        android:id="@+id/button_mapview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="Back to Map View" android:onClick="launchMapView"/>
+
+    <Button
+        android:id="@+id/button_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tag" android:layout_alignParentRight="true" android:onClick="tagLocation" android:layout_alignParentBottom="true" android:minWidth="150dp"/>
+-->
+     <SurfaceView
+        android:id="@+id/surfaceCamera"
+        android:layout_width="400px"
+        android:layout_height="700px" />
+
+    <ImageButton
+        android:id="@+id/cameraButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:onClick="onClick"
+        android:src="@android:drawable/ic_menu_camera" />
+    
+    
+</RelativeLayout>        
+
+

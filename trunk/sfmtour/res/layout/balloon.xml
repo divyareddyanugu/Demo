@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/balloon"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/customborder" >
+
+    <!--
+    <Button
+        android:id="@+id/buttonclose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:text="Close" />
+    -->
+
+    <TextView
+        android:id="@+id/tagtitle1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Movie Title:"
+        android:textAppearance="?android:attr/textAppearanceMedium" 
+        android:layout_below="@+id/tagmaintitle"/>
+
+    <TextView
+        android:id="@+id/tagtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tagmaintitle"
+        android:layout_marginLeft="24dp"
+        android:layout_toRightOf="@+id/tagtitle1"
+android:linksClickable="true"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tagtime1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tagtitle1"
+        android:layout_marginTop="10dp"
+        android:layout_toLeftOf="@+id/tagtitle"
+        android:text="@string/tagtime"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tagtime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/closeballoon"
+        android:layout_below="@+id/tagtitle"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/tagtime1"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tagdesc1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tagtime1"
+        android:layout_marginTop="10dp"
+        android:text="@string/tagdesc"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tagdesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/tagtime"
+        android:layout_below="@+id/tagtime"
+        android:layout_marginLeft="26dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/tagdesc1"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ImageView
+        android:id="@+id/pictaken"
+        android:layout_width="130dp"
+        android:layout_height="170dp"
+        android:layout_alignLeft="@+id/tagdesc1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/launcher" />
+
+    <ImageView
+        android:id="@+id/closeballoon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/balloon_overlay_close" />
+
+    <TextView
+        android:id="@+id/tagmaintitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerHorizontal="true"
+        android:layout_toLeftOf="@+id/closeballoon"
+        android:background="#808080"
+        android:text="@string/tagmaintitle"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold" />
+
+</RelativeLayout>
