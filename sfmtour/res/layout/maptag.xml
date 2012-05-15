@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <com.google.android.maps.MapView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/map_tagview"
+        android:layout_width="wrap_content"
+        android:layout_height="235dp"
+        android:apiKey="0PmRXANsxf12NNpvpTDMJqATwFL0bu3bBxrGzug"
+        android:clickable="true"
+        android:enabled="true"
+        android:minWidth="318dp" />
+
+    <Button
+        android:id="@+id/button_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="Save"
+        android:width="120dp" 
+        android:onClick="saveTag"/>
+
+    <EditText
+        android:id="@+id/txt_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button_save"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@+id/textView4"
+        android:inputType="textMultiLine"
+        android:minHeight="80dp" >
+
+        
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txt_description"
+        android:layout_alignBottom="@+id/txt_description"
+        android:layout_alignParentLeft="true"
+        android:text="Description"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/txt_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/txt_description"
+        android:layout_alignLeft="@+id/txt_description"
+        android:layout_alignParentRight="true"
+        android:minWidth="200dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txt_time"
+        android:layout_alignBottom="@+id/txt_time"
+        android:layout_alignParentLeft="true"
+        android:text="Time"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/spinner_movielist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/txt_time"
+        android:layout_alignLeft="@+id/txt_time"
+        android:layout_alignParentRight="true"
+        android:minWidth="200dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/spinner_movielist"
+        android:layout_alignBottom="@+id/spinner_movielist"
+        android:layout_alignParentLeft="true"
+        android:text="Movie"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/map_tagview"
+        android:layout_toRightOf="@+id/textView3"
+        android:text="Tag current location to a Movie"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt_description"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/button_save"
+        android:onClick="TakePic"
+        android:text="Take Pic" />
+
+</RelativeLayout>
+<!--
+	You will need to sign up for a Google Map API
+	key in order for the map to work, and here is how:
+	http://code.google.com/android/add-ons/google-apis/mapkey.html
+	The API key needs to be pasted as the value of attribute android:apiKey
+-->

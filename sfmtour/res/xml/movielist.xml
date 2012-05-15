@@ -1,0 +1,776 @@
+<?xml version="1.0"?>
+<sf-movies>
+<movie id="tt0154097" locs="0">$40,000</movie>
+<movie id="tt0231062" locs="0">14th U.S. Infantry Drilling at the Presidio</movie>
+<movie id="tt0377029" locs="2">24 Hours on Craigslist</movie>
+<movie id="tt0243736" locs="2">40 Days and 40 Nights</movie>
+<movie id="tt0083511" locs="1">48 Hrs.</movie>
+<movie id="tt0343660" locs="0">50 First Dates</movie>
+<movie id="tt0078731" locs="2">Act of Violence</movie>
+<movie id="tt0252194" locs="0">Adieu Babylone</movie>
+<movie id="tt0069681" locs="3">Affair, The</movie>
+<movie id="tt0276760" locs="2">After the Flood</movie>
+<movie id="tt0098995" locs="0">After the Shock</movie>
+<movie id="tt0027260" locs="1">After the Thin Man</movie>
+<movie id="tt0396433" locs="3">Afternoon T Room</movie>
+<movie id="tt0092528" locs="2">Alarming Trends</movie>
+<movie id="tt0404755" locs="0">Alice in Storageland</movie>
+<movie id="tt0103645" locs="0">Aliens Cut My Hair</movie>
+<movie id="tt0042192" locs="0">All About Eve</movie>
+<movie id="tt0239570" locs="0">All About You</movie>
+<movie id="tt0395937" locs="0">Almost Caught and Too Young to Care</movie>
+<movie id="tt0090615" locs="0">Alone in the T-Shirt Zone</movie>
+<movie id="tt0372140" locs="0">American Beer</movie>
+<movie id="tt0069704" locs="0">American Graffiti</movie>
+<movie id="tt0371530" locs="0">American Scary</movie>
+<movie id="tt0386284" locs="1">American Yearbook</movie>
+<movie id="tt0101345" locs="5">And the Sea Will Tell</movie>
+<movie id="tt0099044" locs="0">Another 48 Hrs.</movie>
+<movie id="tt0168786" locs="0">Antwone Fisher</movie>
+<movie id="tt0161234" locs="0">Anyone for Bridge?</movie>
+<movie id="tt0254123" locs="0">Arena</movie>
+<movie id="tt0139030" locs="0">Around the Fire</movie>
+<movie id="tt0048960" locs="0">Around the World in Eighty Days</movie>
+<movie id="tt0382545" locs="0">Art of Nothing, The</movie>
+<movie id="tt0180451" locs="0">Ashes to Ashes</movie>
+<movie id="tt0401235" locs="0">Ass Under Glass</movie>
+<movie id="tt0364961" locs="1">Assassination of Richard Nixon, The</movie>
+<movie id="tt0006381" locs="0">Atta Boy's Last Race</movie>
+<movie id="tt0099082" locs="0">Babies</movie>
+<movie id="tt0122987" locs="0">Baby Rosemary</movie>
+<movie id="tt0120596" locs="0">Bachelor, The</movie>
+<movie id="tt0257422" locs="0">Back from Manila</movie>
+<movie id="tt0103754" locs="1">Back to the Streets of San Francisco</movie>
+<movie id="tt0244989" locs="0">Ball and Chain</movie>
+<movie id="tt0026097" locs="0">Barbary Coast</movie>
+<movie id="tt0230025" locs="0">Bartleby</movie>
+<movie id="tt0103772" locs="0">Basic Instinct</movie>
+<movie id="tt0094715" locs="0">Beaches</movie>
+<movie id="tt0230030" locs="3">Bedazzled</movie>
+<movie id="tt0387059" locs="0">Bee Season</movie>
+<movie id="tt0068260" locs="1">Behind the Green Door</movie>
+<movie id="tt0090709" locs="0">Behind the Green Door, the Sequel</movie>
+<movie id="tt0082056" locs="0">Behind the Scenes of an Adult Movie</movie>
+<movie id="tt0315281" locs="0">Better Than Ever</movie>
+<movie id="tt0271395" locs="0">Beyond Vanilla</movie>
+<movie id="tt0182789" locs="0">Bicentennial Man</movie>
+<movie id="tt0094743" locs="0">Big Time</movie>
+<movie id="tt0090728" locs="0">Big Trouble in Little China</movie>
+<movie id="tt0045557" locs="0">Bigamist, The</movie>
+<movie id="tt0309365" locs="0">Bird's-Eye View of San Francisco, Cal., From a Balloon</movie>
+<movie id="tt0055798" locs="0">Birdman of Alcatraz</movie>
+<movie id="tt0056869" locs="0">Birds, The</movie>
+<movie id="tt0101458" locs="0">Bis ans Ende der Welt</movie>
+<movie id="tt0207341" locs="0">Biwi No. 1</movie>
+<movie id="tt0306561" locs="0">Black Road</movie>
+<movie id="tt0221023" locs="0">Black Tar Heroin: The Dark End of the Street</movie>
+<movie id="tt0047889" locs="0">Blood Alley</movie>
+<movie id="tt0198339" locs="0">Blood and Tears</movie>
+<movie id="tt0396508" locs="0">Blue Collar</movie>
+<movie id="tt0194712" locs="0">Body Magic</movie>
+<movie id="tt0301055" locs="0">Book of Rules</movie>
+<movie id="tt0405796" locs="0">Boy Sweat</movie>
+<movie id="tt0350650" locs="0">Boy and the Sea, The</movie>
+<movie id="tt0204175" locs="0">Boys and Girls</movie>
+<movie id="tt0083690" locs="0">BrainWaves</movie>
+<movie id="tt0408593" locs="0">Breaking the Rules</movie>
+<movie id="tt0403898" locs="0">Breath</movie>
+<movie id="tt0115753" locs="0">Breathing Lessons: The Life and Work of Mark O'Brien</movie>
+<movie id="tt0299586" locs="0">Breathing Show, The</movie>
+<movie id="tt0012010" locs="0">Brute Master, The</movie>
+<movie id="tt0206610" locs="0">Bugaboo</movie>
+<movie id="tt0062765" locs="0">Bullitt</movie>
+<movie id="tt0092710" locs="0">Burglar</movie>
+<movie id="tt0312511" locs="0">Burning Clean</movie>
+<movie id="tt0003732" locs="0">Burning Daylight: The Adventures of 'Burning Daylight' in Civilization</movie>
+<movie id="tt0395960" locs="0">Bustin' Ass</movie>
+<movie id="tt0068326" locs="0">Butterflies Are Free</movie>
+<movie id="tt0366273" locs="0">Cable Road in San Francisco, Cal., A</movie>
+<movie id="tt0106502" locs="0">Cadillac Girls</movie>
+<movie id="tt0377579" locs="0">California Naval Reserves</movie>
+<movie id="tt0072757" locs="0">California Reich, The</movie>
+<movie id="tt0377043" locs="0">Californians, The</movie>
+<movie id="tt0080492" locs="0">Can't Stop the Music</movie>
+<movie id="tt0068334" locs="0">Candidate, The</movie>
+<movie id="tt0321591" locs="0">Capri</movie>
+<movie id="tt0026184" locs="0">Case of the Curious Bride, The</movie>
+<movie id="tt0097027" locs="0">Casualties of War</movie>
+<movie id="tt0215598" locs="0">Cavalcade of San Francisco</movie>
+<movie id="tt0083728" locs="0">Chan Is Missing</movie>
+<movie id="tt0391854" locs="0">Chasing Fate</movie>
+<movie id="tt0298798" locs="0">Cherish</movie>
+<movie id="tt0071212" locs="0">Chi sei?</movie>
+<movie id="tt0082177" locs="0">Chu Chu and the Philly Flash</movie>
+<movie id="tt0276866" locs="0">Cirque du Soleil: Dralion</movie>
+<movie id="tt0021749" locs="0">City Lights</movie>
+<movie id="tt0101590" locs="0">Class Action</movie>
+<movie id="tt0165175" locs="0">Clerks of Darkness</movie>
+<movie id="tt0218111" locs="0">Closer Than the Boy Next Door</movie>
+<movie id="tt0391870" locs="0">Club Onyx</movie>
+<movie id="tt0085349" locs="0">Cocaine and Blue Eyes</movie>
+<movie id="tt0087067" locs="0">Code Gray: Ethical Dilemmas in Nursing</movie>
+<movie id="tt0088940" locs="0">Colpi di luce</movie>
+<movie id="tt0208067" locs="0">Comment savoir</movie>
+<movie id="tt0365074" locs="0">Communal Commitment</movie>
+<movie id="tt0080556" locs="0">Competition, The</movie>
+<movie id="tt0069916" locs="0">Consigliori, Il</movie>
+<movie id="tt0071360" locs="0">Conversation, The</movie>
+<movie id="tt0112722" locs="0">Copycat</movie>
+<movie id="tt0377691" locs="0">Corner of Your Eye</movie>
+<movie id="tt0150209" locs="0">Counter Measures</movie>
+<movie id="tt0361477" locs="0">Courier, The</movie>
+<movie id="tt0088958" locs="0">Covenant</movie>
+<movie id="tt0115967" locs="0">Crashendo</movie>
+<movie id="tt0060260" locs="0">Crazy-Quilt, The</movie>
+<movie id="tt0072831" locs="0">Criminally Insane</movie>
+<movie id="tt0404895" locs="0">CrossWalk</movie>
+<movie id="tt0109508" locs="0">Crumb</movie>
+<movie id="tt0374590" locs="0">Crying Foul</movie>
+<movie id="tt0389900" locs="0">Cum in the Wild</movie>
+<movie id="tt0397380" locs="0">D.I.Y. or Die: How to Survive as an Independent Artist</movie>
+<movie id="tt0042369" locs="1">D.O.A.</movie>
+<movie id="tt0359127" locs="0">DC Talk: Free at Last</movie>
+<movie id="tt0112772" locs="0">Da mao xian jia</movie>
+<movie id="tt0064209" locs="0">Daddy's Gone A-Hunting</movie>
+<movie id="tt0003815" locs="0">Damaged Goods</movie>
+<movie id="tt0059083" locs="0">Dark Intruder</movie>
+<movie id="tt0039302" locs="2">Dark Passage</movie>
+<movie id="tt0379237" locs="0">Dark Secrets: Inside Bohemian Grove</movie>
+<movie id="tt0378244" locs="0">David Cross: Let America Laugh</movie>
+<movie id="tt0144857" locs="0">Day on Treasure Island, A</movie>
+<movie id="tt0013055" locs="1">Daydreams</movie>
+<movie id="tt0055895" locs="0">Days of Wine and Roses</movie>
+<movie id="tt0285510" locs="0">Dead Kennedys: DMPO's On Broadway</movie>
+<movie id="tt0094963" locs="0">Dead Pool, The</movie>
+<movie id="tt0391052" locs="0">Death of an Anarchist</movie>
+<movie id="tt0154385" locs="0">Deeply Disturbed</movie>
+<movie id="tt0116077" locs="0">Depth Solitude</movie>
+<movie id="tt0245863" locs="0">Des morts</movie>
+<movie id="tt0331466" locs="0">Descendant</movie>
+<movie id="tt0219643" locs="0">Desi's Looking for a New Girl</movie>
+<movie id="tt0118966" locs="0">Desperate Measures</movie>
+<movie id="tt0280602" locs="0">Diana, René, y El Tíbiri</movie>
+<movie id="tt0389923" locs="0">Dick Drainers</movie>
+<movie id="tt0099423" locs="1">Die Hard 2</movie>
+<movie id="tt0080627" locs="0">Die Laughing</movie>
+<movie id="tt0332604" locs="0">Dildo Diaries</movie>
+<movie id="tt0087150" locs="0">Dim Sum: A Little Bit of Heart</movie>
+<movie id="tt0066999" locs="0">Dirty Harry</movie>
+<movie id="tt0118998" locs="0">Doctor Dolittle</movie>
+<movie id="tt0082273" locs="0">Doctor Dracula</movie>
+<movie id="tt0116118" locs="0">Doctor Who</movie>
+<movie id="tt0101746" locs="0">Doctor, The</movie>
+<movie id="tt0031235" locs="0">Dodge City</movie>
+<movie id="tt0116120" locs="0">Dog Watch</movie>
+<movie id="tt0101748" locs="0">Dogfight</movie>
+<movie id="tt0101761" locs="0">Doors, The</movie>
+<movie id="tt0014854" locs="0">Dorothy Vernon of Haddon Hall</movie>
+<movie id="tt0116130" locs="0">Down Periscope</movie>
+<movie id="tt0186975" locs="0">Down to You</movie>
+<movie id="tt0240462" locs="0">Dr. Dolittle 2</movie>
+<movie id="tt0059124" locs="0">Dr. Goldfoot and the Bikini Machine</movie>
+<movie id="tt0083849" locs="0">Dr. Jekyll's Dungeon of Death</movie>
+<movie id="tt0259286" locs="0">Dragon Kin</movie>
+<movie id="tt0106770" locs="0">Dragon: The Bruce Lee Story</movie>
+<movie id="tt0116141" locs="0">Dream for an Insomniac</movie>
+<movie id="tt0099465" locs="0">Dreaming Filipinos</movie>
+<movie id="tt0413974" locs="0">Drive Thru</movie>
+<movie id="tt0406729" locs="0">Dupont Guy: The Schiz of Grant Avenue</movie>
+<movie id="tt0299806" locs="0">Dust: An Extraordinary Correspondence</movie>
+<movie id="tt0101787" locs="0">Dying Young</movie>
+<movie id="tt0106785" locs="0">Dying to Remember</movie>
+<movie id="tt0132933" locs="0">Dynamite Brothers</movie>
+<movie id="tt0396573" locs="0">Eager to Sleaze</movie>
+<movie id="tt0097261" locs="0">Eat a Bowl of Tea</movie>
+<movie id="tt0409921" locs="0">Ecchoing Green, The</movie>
+<movie id="tt0282451" locs="0">Ed's Holistic Car Repair</movie>
+<movie id="tt0184424" locs="0">Eddie Izzard: Dress to Kill</movie>
+<movie id="tt0131369" locs="0">Edtv</movie>
+<movie id="tt0361558" locs="0">Edtv: Caught in the Camera's Eye</movie>
+<movie id="tt0087197" locs="0">Electric Dreams</movie>
+<movie id="tt0408740" locs="0">Elsa Letterseed</movie>
+<movie id="tt0075987" locs="0">Emanuelle - perché violenza alle donne?</movie>
+<movie id="tt0407760" locs="0">End of Grace, The</movie>
+<movie id="tt0380348" locs="0">Eneri</movie>
+<movie id="tt0074483" locs="0">Enforcer, The</movie>
+<movie id="tt0278435" locs="0">Enough</movie>
+<movie id="tt0289939" locs="0">Erotic Underground</movie>
+<movie id="tt0178415" locs="0">Erotic World of Angel Cash, The</movie>
+<movie id="tt0079116" locs="0">Escape from Alcatraz</movie>
+<movie id="tt0074494" locs="0">Esecutori, Gli</movie>
+<movie id="tt0242441" locs="0">Esperado amor desesperado, El</movie>
+<movie id="tt0367712" locs="0">Eve Was Framed</movie>
+<movie id="tt0054859" locs="0">Eve and the Handyman</movie>
+<movie id="tt0101831" locs="0">Eve of Destruction</movie>
+<movie id="tt0011163" locs="0">Excuse My Dust</movie>
+<movie id="tt0176705" locs="0">Execution of Justice</movie>
+<movie id="tt0326557" locs="0">Exotic and Erotic</movie>
+<movie id="tt0055972" locs="0">Experiment in Terror</movie>
+<movie id="tt0005259" locs="0">Exposition's First Romance, The</movie>
+<movie id="tt0124508" locs="0">Exstasy</movie>
+<movie id="tt0350906" locs="0">Extraordinary Child, The</movie>
+<movie id="tt0082350" locs="0">Eye for an Eye, An</movie>
+<movie id="tt0120662" locs="0">Eye of the Beholder</movie>
+<movie id="tt0064310" locs="0">Eye of the Cat</movie>
+<movie id="tt0407775" locs="0">Eyewitness</movie>
+<movie id="tt0126290" locs="0">F Word, The</movie>
+<movie id="tt0406760" locs="0">Fabian's Freeak Show</movie>
+<movie id="tt0067078" locs="0">Face of Fear, The</movie>
+<movie id="tt0068564" locs="1">Face-Off</movie>
+<movie id="tt0077533" locs="0">Faces of Death</movie>
+<movie id="tt0406763" locs="0">Fall of the I-Hotel, The</movie>
+<movie id="tt0074512" locs="1">Family Plot</movie>
+<movie id="tt0116277" locs="0">Fan, The</movie>
+<movie id="tt0079134" locs="0">Fantasy</movie>
+<movie id="tt0389996" locs="0">Fantasy Bears</movie>
+<movie id="tt0113031" locs="0">Farmer and Chase</movie>
+<movie id="tt0097336" locs="0">Fat Man and Little Boy</movie>
+<movie id="tt0097337" locs="0">Fatal Bet</movie>
+<movie id="tt0119109" locs="0">Fathers' Day</movie>
+<movie id="tt0106881" locs="0">Fearless</movie>
+<movie id="tt0372276" locs="0">Feel Neil</movie>
+<movie id="tt0162324" locs="0">Fighting Chance, The</movie>
+<movie id="tt0068584" locs="0">Fillmore</movie>
+<movie id="tt0104265" locs="0">Final Analysis</movie>
+<movie id="tt0280674" locs="0">First $20 Million Is Always the Hardest, The</movie>
+<movie id="tt0178451" locs="0">Fishing with Gandhi</movie>
+<movie id="tt0255173" locs="0">Fleetwood Mac: Tango in the Night</movie>
+<movie id="tt0049219" locs="0">Flight to Hong Kong</movie>
+<movie id="tt0054885" locs="0">Flower Drum Song</movie>
+<movie id="tt0208160" locs="0">Flu Season</movie>
+<movie id="tt0025129" locs="0">Fog Over Frisco</movie>
+<movie id="tt0317910" locs="0">Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The</movie>
+<movie id="tt0372925" locs="0">Foo-Foo Dust</movie>
+<movie id="tt0405929" locs="0">Food Fuck</movie>
+<movie id="tt0065731" locs="0">Fools</movie>
+<movie id="tt0123078" locs="0">Foreign Correspondents</movie>
+<movie id="tt0196723" locs="0">Forever Lulu</movie>
+<movie id="tt0129935" locs="0">Fortune Tell</movie>
+<movie id="tt0077578" locs="0">Foul Play</movie>
+<movie id="tt0365246" locs="0">Francisco Sánchez: Paco de Lucía</movie>
+<movie id="tt0390016" locs="0">Fraulein Leather</movie>
+<movie id="tt0071521" locs="0">Freebie and the Bean</movie>
+<movie id="tt0126312" locs="0">Friend of the Family II</movie>
+<movie id="tt0116364" locs="0">Friend's Betrayal, A</movie>
+<movie id="tt0349470" locs="0">Friggin' Mafia Movie, The</movie>
+<movie id="tt0113122" locs="0">Frisk</movie>
+<movie id="tt0353248" locs="0">Full Clip</movie>
+<movie id="tt0396027" locs="0">Furry Fuckers</movie>
+<movie id="tt0396608" locs="0">G Marks the Spot: A Good Vibrations Guide to the G Spot</movie>
+<movie id="tt0119174" locs="2">Game, The</movie>
+<movie id="tt0192069" locs="0">Gendernauts</movie>
+<movie id="tt0119190" locs="0">George of the Jungle</movie>
+<movie id="tt0109891" locs="0">Getting Even with Dad</movie>
+<movie id="tt0396033" locs="0">Getting Tail in the City</movie>
+<movie id="tt0307535" locs="0">Getting There</movie>
+<movie id="tt0051657" locs="0">Gift of Love, The</movie>
+<movie id="tt0065780" locs="0">Gimme Shelter</movie>
+<movie id="tt0071555" locs="0">Girl on the Late, Late Show, The</movie>
+<movie id="tt0390048" locs="0">Give and Take</movie>
+<movie id="tt0109917" locs="0">Golden Gate</movie>
+<movie id="tt0033669" locs="0">Golden Gate Girl</movie>
+<movie id="tt0080805" locs="0">Golden Moment: An Olympic Love Story, The</movie>
+<movie id="tt0076094" locs="0">Good Against Evil</movie>
+<movie id="tt0058153" locs="0">Good Neighbor Sam</movie>
+<movie id="tt0061722" locs="0">Graduate, The</movie>
+<movie id="tt0402224" locs="0">Grand Theft Auto: San Andreas</movie>
+<movie id="tt0387267" locs="0">Grapes: A Love Story</movie>
+<movie id="tt0113212" locs="0">Grateful Dead</movie>
+<movie id="tt0076104" locs="0">Grateful Dead Movie, The</movie>
+<movie id="tt0080813" locs="0">Great Rock 'n' Roll Swindle, The</movie>
+<movie id="tt0015881" locs="0">Greed</movie>
+<movie id="tt0212974" locs="0">Groove</movie>
+<movie id="tt0061735" locs="0">Guess Who's Coming to Dinner</movie>
+<movie id="tt0089239" locs="0">Guilty Conscience</movie>
+<movie id="tt0160338" locs="0">Guinevere</movie>
+<movie id="tt0080833" locs="0">Guyana, el crimen del siglo</movie>
+<movie id="tt0265216" locs="0">H.M.S. Bounty Sails Again!</movie>
+<movie id="tt0273253" locs="0">Haiku Tunnel</movie>
+<movie id="tt0016945" locs="0">Hallo! Amerika!</movie>
+<movie id="tt0360629" locs="0">Halloween House Party</movie>
+<movie id="tt0168846" locs="0">Hang the DJ</movie>
+<movie id="tt0340147" locs="0">Happily Even After</movie>
+<movie id="tt0386502" locs="0">Happily Ever Under</movie>
+<movie id="tt0116483" locs="0">Happy Gilmore</movie>
+<movie id="tt0357725" locs="0">Hard Love</movie>
+<movie id="tt0315943" locs="0">Hard to Believe</movie>
+<movie id="tt0079271" locs="0">Hardcore</movie>
+<movie id="tt0067185" locs="0">Harold and Maude</movie>
+<movie id="tt0113266" locs="0">Hart to Hart: Secrets of the Hart</movie>
+<movie id="tt0084057" locs="0">Hear No Evil</movie>
+<movie id="tt0080854" locs="0">Heart Beat</movie>
+<movie id="tt0107091" locs="0">Heart and Souls</movie>
+<movie id="tt0283367" locs="0">Her Urge</movie>
+<movie id="tt0071607" locs="0">Herbie Rides Again</movie>
+<movie id="tt0384994" locs="0">Hidden in Plain Sight</movie>
+<movie id="tt0405012" locs="0">Hide Out</movie>
+<movie id="tt0076141" locs="0">High Anxiety</movie>
+<movie id="tt0257756" locs="0">High Crimes</movie>
+<movie id="tt0116536" locs="0">Hippie Revolution, The</movie>
+<movie id="tt0144969" locs="0">Home Page</movie>
+<movie id="tt0119305" locs="0">Homegrown</movie>
+<movie id="tt0116552" locs="0">Homeward Bound II: Lost in San Francisco</movie>
+<movie id="tt0107131" locs="0">Homeward Bound: The Incredible Journey</movie>
+<movie id="tt0141186" locs="0">Hot Skin in 3D</movie>
+<movie id="tt0315983" locs="0">House of Sand and Fog</movie>
+<movie id="tt0357765" locs="0">How to Fuck in High Heels</movie>
+<movie id="tt0286716" locs="0">Hulk</movie>
+<movie id="tt0405979" locs="0">Hunky Cuisine</movie>
+<movie id="tt0041495" locs="0">I Married a Communist</movie>
+<movie id="tt0040458" locs="0">I Remember Mama</movie>
+<movie id="tt0294640" locs="0">I'd Rather Be... Gone</movie>
+<movie id="tt0251739" locs="0">I'm the One That I Want</movie>
+<movie id="tt0205152" locs="0">Icarus Descending</movie>
+<movie id="tt0041503" locs="0">Impact</movie>
+<movie id="tt0296679" locs="0">Imprint</movie>
+<movie id="tt0277749" locs="0">In Between</movie>
+<movie id="tt0257792" locs="0">In Busy 'Frisco</movie>
+<movie id="tt0371739" locs="0">In Control of All Things</movie>
+<movie id="tt0059309" locs="0">In Harm's Way</movie>
+<movie id="tt0051770" locs="0">In Love and War</movie>
+<movie id="tt0399182" locs="0">In the Bathtub of the World</movie>
+<movie id="tt0005542" locs="0">In the Park</movie>
+<movie id="tt0093260" locs="0">Innerspace</movie>
+<movie id="tt0097579" locs="0">Innocent Man, An</movie>
+<movie id="tt0110148" locs="1">Interview with the Vampire: The Vampire Chronicles</movie>
+<movie id="tt0077745" locs="0">Invasion of the Body Snatchers</movie>
+<movie id="tt0314211" locs="0">Invasion: Anime</movie>
+<movie id="tt0119381" locs="0">Inventing the Abbotts</movie>
+<movie id="tt0178642" locs="0">Invisible Circus, The</movie>
+<movie id="tt0390133" locs="0">Ipo</movie>
+<movie id="tt0061823" locs="0">Ironside</movie>
+<movie id="tt0387309" locs="0">Isolation</movie>
+<movie id="tt0048215" locs="0">It Came from Beneath the Sea</movie>
+<movie id="tt0095386" locs="0">Itinéraire d'un enfant gâté</movie>
+<movie id="tt0116669" locs="0">Jack</movie>
+<movie id="tt0113451" locs="0">Jade</movie>
+<movie id="tt0089360" locs="0">Jagged Edge</movie>
+<movie id="tt0116683" locs="0">James and the Giant Peach</movie>
+<movie id="tt0018037" locs="0">Jazz Singer, The</movie>
+<movie id="tt0231818" locs="0">Jeffries and Ruhlin Sparring Contest at San Francisco, Cal., November 15, 1901</movie>
+<movie id="tt0008148" locs="0">Jim Bludso</movie>
+<movie id="tt0005571" locs="0">Jitney Elopement, A</movie>
+<movie id="tt0410135" locs="0">Joe Satriani: Live in San Francisco</movie>
+<movie id="tt0004175" locs="0">John Barleycorn</movie>
+<movie id="tt0141448" locs="0">Journey Into Pain</movie>
+<movie id="tt0107282" locs="0">Joy Luck Club, The</movie>
+<movie id="tt0358551" locs="0">Julie and Jack</movie>
+<movie id="tt0110216" locs="0">Junior</movie>
+<movie id="tt0005581" locs="0">Just Jim</movie>
+<movie id="tt0201901" locs="0">Just One Night</movie>
+<movie id="tt0401556" locs="0">Keanu's Wet Dream</movie>
+<movie id="tt0412893" locs="0">Khwaab</movie>
+<movie id="tt0089414" locs="0">Kicks</movie>
+<movie id="tt0202439" locs="0">King of the Bingo Game</movie>
+<movie id="tt0050599" locs="0">Kiss Them for Me</movie>
+<movie id="tt0414203" locs="0">Knight in Glass Armor, The</movie>
+<movie id="tt0076278" locs="0">Koko, le gorille qui parle</movie>
+<movie id="tt0085809" locs="0">Koyaanisqatsi</movie>
+<movie id="tt0104647" locs="0">Kuffs</movie>
+<movie id="tt0282667" locs="0">Kung Phooey!</movie>
+<movie id="tt0040525" locs="0">Lady from Shanghai, The</movie>
+<movie id="tt0361821" locs="0">Last Face, The</movie>
+<movie id="tt0005606" locs="0">Last Night of the Barbary Coast</movie>
+<movie id="tt0104690" locs="0">Last of His Tribe, The</movie>
+<movie id="tt0237397" locs="0">Last of the Gladiators, The</movie>
+<movie id="tt0070292" locs="0">Laughing Policeman, The</movie>
+<movie id="tt0357849" locs="0">Launching of the New Battleship 'Ohio' at San Francisco, Cal. When President McKinley Was There</movie>
+<movie id="tt0218393" locs="0">Leander Sisters</movie>
+<movie id="tt0396095" locs="0">Leather Factory</movie>
+<movie id="tt0251795" locs="0">Leaving the Land</movie>
+<movie id="tt0156735" locs="0">Legend of the Mummy</movie>
+<movie id="tt0093405" locs="0">Leonard Part 6</movie>
+<movie id="tt0077850" locs="0">Li Hsiao Lung chuan chi</movie>
+<movie id="tt0051866" locs="0">Lineup, The</movie>
+<movie id="tt0264802" locs="0">Live Nude Girls Unite!</movie>
+<movie id="tt0093429" locs="0">Living on Tokyo Time</movie>
+<movie id="tt0093440" locs="0">Love Among Thieves</movie>
+<movie id="tt0064603" locs="0">Love Bug, The</movie>
+<movie id="tt0384296" locs="0">Love Life</movie>
+<movie id="tt0345594" locs="0">Love at Times Square</movie>
+<movie id="tt0218416" locs="0">Lurline Baths</movie>
+<movie id="tt0044860" locs="0">Lusty Men, The</movie>
+<movie id="tt0397522" locs="0">MTV Presents: Live From the 10 Spot with Green Day</movie>
+<movie id="tt0005675" locs="0">Mabel and Fatty Viewing the World's Fair at San Francisco</movie>
+<movie id="tt0398171" locs="0">Madison Rye</movie>
+<movie id="tt0070355" locs="0">Magnum Force</movie>
+<movie id="tt0311473" locs="0">Mainly Etc.</movie>
+<movie id="tt0170204" locs="0">Maisy's Garden</movie>
+<movie id="tt0386612" locs="0">Make or Break Us</movie>
+<movie id="tt0254448" locs="0">Making Metamorphosis</movie>
+<movie id="tt0388226" locs="0">Making Tutti</movie>
+<movie id="tt0364494" locs="0">Making of 'Invasion of the Freedom Snatchers', The</movie>
+<movie id="tt0349775" locs="0">Making of 'The Sweetest Thing', The</movie>
+<movie id="tt0033870" locs="0">Maltese Falcon, The</movie>
+<movie id="tt0401631" locs="0">Man 2 Man</movie>
+<movie id="tt0404217" locs="0">Man Between, The</movie>
+<movie id="tt0042707" locs="0">Man Who Cheated Himself, The</movie>
+<movie id="tt0010428" locs="0">Man of Might</movie>
+<movie id="tt0386615" locs="0">Man!</movie>
+<movie id="tt0055134" locs="0">Man-Trap</movie>
+<movie id="tt0077904" locs="0">Manitou, The</movie>
+<movie id="tt0257903" locs="0">Market Street</movie>
+<movie id="tt0005715" locs="0">Marriage of Kitty, The</movie>
+<movie id="tt0004307" locs="0">Martin Eden</movie>
+<movie id="tt0215972" locs="0">Martini Shot, The</movie>
+<movie id="tt0117001" locs="0">Mary Jane's Not a Virgin Anymore</movie>
+<movie id="tt0087689" locs="0">Massive Retaliation</movie>
+<movie id="tt0089569" locs="0">Maxie</movie>
+<movie id="tt0258795" locs="0">Maximum Cruise</movie>
+<movie id="tt0104850" locs="0">Memoirs of an Invisible Man</movie>
+<movie id="tt0410312" locs="0">Merry Widow, The</movie>
+<movie id="tt0404235" locs="0">Metalman</movie>
+<movie id="tt0119664" locs="0">Metro</movie>
+<movie id="tt0373141" locs="0">Michael and Claire: A Portrait of Love and Dreams</movie>
+<movie id="tt0050704" locs="0">Midnight Story, The</movie>
+<movie id="tt0005743" locs="0">Mignon</movie>
+<movie id="tt0222199" locs="0">Mind Game</movie>
+<movie id="tt0275522" locs="0">Minute Matrimony</movie>
+<movie id="tt0211128" locs="0">Miracle of Todd-AO, The</movie>
+<movie id="tt0208866" locs="0">Mission</movie>
+<movie id="tt0228597" locs="0">Missions of California, The</movie>
+<movie id="tt0292113" locs="0">Mitr, My Friend</movie>
+<movie id="tt0344074" locs="0">Mitsein</movie>
+<movie id="tt0139468" locs="0">Modulations</movie>
+<movie id="tt0304415" locs="0">Mona Lisa Smile</movie>
+<movie id="tt0060712" locs="0">Mondo Topless</movie>
+<movie id="tt0166276" locs="0">Monkeybone</movie>
+<movie id="tt0364527" locs="0">Monsturd</movie>
+<movie id="tt0013404" locs="0">Moran of the Lady Letty</movie>
+<movie id="tt0117091" locs="0">Mother</movie>
+<movie id="tt0361929" locs="0">Motorcycle Women</movie>
+<movie id="tt0076417" locs="0">Mr. Billion</movie>
+<movie id="tt0378392" locs="0">Mr. Grauman. For Private Use</movie>
+<movie id="tt0073411" locs="0">Mr. Ricco</movie>
+<movie id="tt0107614" locs="1">Mrs. Doubtfire</movie>
+<movie id="tt0100208" locs="0">Murder in Law</movie>
+<movie id="tt0319899" locs="0">My Brother's Light</movie>
+<movie id="tt0087767" locs="0">My Mother's Secret Life</movie>
+<movie id="tt0178781" locs="0">My Neighbor's Daughter</movie>
+<movie id="tt0390285" locs="0">N Judah 5:30</movie>
+<movie id="tt0008362" locs="0">Narrow Trail, The</movie>
+<movie id="tt0015163" locs="0">Navigator, The</movie>
+<movie id="tt0222229" locs="0">Neighborhoods: The Hidden Cities of San Francisco - Chinatown</movie>
+<movie id="tt0200898" locs="0">Neighborhoods: The Hidden Cities of San Francisco - The Castro</movie>
+<movie id="tt0221428" locs="0">Neighborhoods: The Hidden Cities of San Francisco - The Fillmore</movie>
+<movie id="tt0228633" locs="0">Neighborhoods: The Hidden Cities of San Francisco - The Mission</movie>
+<movie id="tt0127045" locs="0">Neon Maniacs</movie>
+<movie id="tt0113957" locs="0">Net, The</movie>
+<movie id="tt0250612" locs="0">Never Die Twice</movie>
+<movie id="tt0304472" locs="0">Night Descends on Treasure Island</movie>
+<movie id="tt0039659" locs="0">Night Song</movie>
+<movie id="tt0066142" locs="0">Night at the Family Dog, A</movie>
+<movie id="tt0379402" locs="0">Night of Henna</movie>
+<movie id="tt0368077" locs="0">Night with My Friends, A</movie>
+<movie id="tt0107688" locs="0">Nightmare Before Christmas, The</movie>
+<movie id="tt0077994" locs="0">Nightmare in Blood</movie>
+<movie id="tt0105003" locs="0">Nightmare in the Daylight</movie>
+<movie id="tt0095744" locs="0">Nincompoop</movie>
+<movie id="tt0113986" locs="1">Nine Months</movie>
+<movie id="tt0080319" locs="0">Nine to Five</movie>
+<movie id="tt0244684" locs="0">No One Sleeps</movie>
+<movie id="tt0087810" locs="0">No Small Affair</movie>
+<movie id="tt0404281" locs="0">Not Once But Twice</movie>
+<movie id="tt0132367" locs="0">Not a Love Story: A Film About Pornography</movie>
+<movie id="tt0105031" locs="0">Nu hei xia huang ying</movie>
+<movie id="tt0391367" locs="0">Nudes On Credit</movie>
+<movie id="tt0202695" locs="0">Numb</movie>
+<movie id="tt0301677" locs="0">Nutcracker</movie>
+<movie id="tt0362919" locs="0">O.J. Simpson: Juice on the Loose</movie>
+<movie id="tt0397583" locs="0">Obscura</movie>
+<movie id="tt0309940" locs="0">Occult Experience, The</movie>
+<movie id="tt0130151" locs="0">Odessa Steps</movie>
+<movie id="tt0018218" locs="0">Old San Francisco</movie>
+<movie id="tt0281011" locs="0">On the Edge of 'Blade Runner'</movie>
+<movie id="tt0059540" locs="0">Once a Thief</movie>
+<movie id="tt0385139" locs="0">One Year Later: Interviews und Radio</movie>
+<movie id="tt0145209" locs="0">One of a Kind</movie>
+<movie id="tt0404294" locs="0">One or Two Things About...</movie>
+<movie id="tt0383545" locs="0">Open the Gate</movie>
+<movie id="tt0067535" locs="0">Organization, The</movie>
+<movie id="tt0401705" locs="0">Orgy</movie>
+<movie id="tt0189873" locs="0">Oriental Taboo</movie>
+<movie id="tt0323523" locs="0">Orpheum Theatre</movie>
+<movie id="tt0257988" locs="0">Orpheum Theatre, San Francisco</movie>
+<movie id="tt0123209" locs="0">Other Sister, The</movie>
+<movie id="tt0189874" locs="0">Oui Girls</movie>
+<movie id="tt0390335" locs="0">Out of the Ether</movie>
+<movie id="tt0039689" locs="0">Out of the Past</movie>
+<movie id="tt0100318" locs="0">Pacific Heights</movie>
+<movie id="tt0005860" locs="0">Pageant of San Francisco, The</movie>
+<movie id="tt0050815" locs="0">Pal Joey</movie>
+<movie id="tt0363865" locs="0">Panorama, Golden Gate</movie>
+<movie id="tt0366869" locs="0">Panoramic View of Mt. Tamalpais</movie>
+<movie id="tt0366870" locs="0">Panoramic View of Mt. Tamalpais Between Bow Knot and McKinley Cut</movie>
+<movie id="tt0366872" locs="0">Panoramic View of the Golden Gate</movie>
+<movie id="tt0114084" locs="0">Panther</movie>
+<movie id="tt0120783" locs="0">Parent Trap, The</movie>
+<movie id="tt0016202" locs="0">Parisian Nights</movie>
+<movie id="tt0129290" locs="0">Patch Adams</movie>
+<movie id="tt0095836" locs="0">Patty Hearst</movie>
+<movie id="tt0110809" locs="0">Perfect Stranger, A</movie>
+<movie id="tt0010561" locs="0">Petal on the Current, The</movie>
+<movie id="tt0063426" locs="0">Petulia</movie>
+<movie id="tt0064806" locs="0">Phantom Tollbooth, The</movie>
+<movie id="tt0304550" locs="0">Pigs Will Fly</movie>
+<movie id="tt0260277" locs="0">Pink Eye</movie>
+<movie id="tt0384430" locs="0">Pirouette</movie>
+<movie id="tt0069097" locs="0">Play It Again, Sam</movie>
+<movie id="tt0056355" locs="0">Playgirls and the Bellboy, The</movie>
+<movie id="tt0187559" locs="0">Playing Mona Lisa</movie>
+<movie id="tt0055307" locs="0">Pleasure of His Company, The</movie>
+<movie id="tt0084514" locs="0">Poetry in Motion</movie>
+<movie id="tt0062138" locs="0">Point Blank</movie>
+<movie id="tt0218520" locs="0">Politically Correct</movie>
+<movie id="tt0076559" locs="0">Portrait George and Mike Kuchar</movie>
+<movie id="tt0054197" locs="0">Portrait in Black</movie>
+<movie id="tt0217220" locs="0">Post No Bills</movie>
+<movie id="tt0081364" locs="0">Power</movie>
+<movie id="tt0095897" locs="0">Presidio, The</movie>
+<movie id="tt0100405" locs="0">Pretty Woman</movie>
+<movie id="tt0067612" locs="0">Priest Killer, The</movie>
+<movie id="tt0011603" locs="0">Prince of Avenue A, The</movie>
+<movie id="tt0247638" locs="0">Princess Diaries, The</movie>
+<movie id="tt0063469" locs="0">Psych-Out</movie>
+<movie id="tt0382924" locs="0">Publishing Guaranteed</movie>
+<movie id="tt0374141" locs="0">Pull Out</movie>
+<movie id="tt0196878" locs="0">Purple Cipher, The</movie>
+<movie id="tt0382255" locs="0">Quality of Life</movie>
+<movie id="tt0040719" locs="0">Race Street</movie>
+<movie id="tt0043957" locs="0">Raging Tide, The</movie>
+<movie id="tt0119978" locs="0">Rainmaker, The</movie>
+<movie id="tt0105217" locs="0">Raising Cain</movie>
+<movie id="tt0396833" locs="0">Rank</movie>
+<movie id="tt0041790" locs="0">Red Light</movie>
+<movie id="tt0095973" locs="0">Rembrandt Laughing</movie>
+<movie id="tt0218550" locs="0">Rescue - Resuscitation</movie>
+<movie id="tt0070602" locs="0">Resurrection of Eve</movie>
+<movie id="tt0310064" locs="0">Return Fire</movie>
+<movie id="tt0218551" locs="0">Return of Lifeboat</movie>
+<movie id="tt0399571" locs="0">Return of the B-Boy</movie>
+<movie id="tt0063503" locs="0">Revolution</movie>
+<movie id="tt0308808" locs="0">Revolution OS</movie>
+<movie id="tt0189049" locs="0">Rice and Potatoes</movie>
+<movie id="tt0086197" locs="0">Right Stuff, The</movie>
+<movie id="tt0100501" locs="0">Road to God Knows Where, The</movie>
+<movie id="tt0117500" locs="4">Rock, The</movie>
+<movie id="tt0098213" locs="0">Roger and Me</movie>
+<movie id="tt0246894" locs="0">Rollerball</movie>
+<movie id="tt0263945" locs="0">Rollercoaster to Hell</movie>
+<movie id="tt0165929" locs="0">Romeo Must Die</movie>
+<movie id="tt0368226" locs="0">Room, The</movie>
+<movie id="tt0363964" locs="0">Ruhlin in His Training Quarters</movie>
+<movie id="tt0310088" locs="0">Running Around San Francisco for an Education</movie>
+<movie id="tt0111038" locs="0">Rupa u dusi</movie>
+<movie id="tt0387555" locs="0">S.F.</movie>
+<movie id="tt0091886" locs="0">Salvador</movie>
+<movie id="tt0393674" locs="0">Samsara</movie>
+<movie id="tt0028216" locs="0">San Francisco</movie>
+<movie id="tt0063539" locs="0">San Francisco</movie>
+<movie id="tt0163191" locs="0">San Francisco Good Times</movie>
+<movie id="tt0066326" locs="0">San Francisco International</movie>
+<movie id="tt0334289" locs="0">San Francisco Lesbian Bondage Club 3</movie>
+<movie id="tt0147328" locs="0">San Francisco Lesbians 5</movie>
+<movie id="tt0363044" locs="0">San Francisco Lesbians 6</movie>
+<movie id="tt0363045" locs="0">San Francisco Lesbians 7</movie>
+<movie id="tt0257088" locs="0">San Francisco: Aftermath of Earthquake</movie>
+<movie id="tt0250711" locs="0">Sandra Bernhard: I'm Still Here...Damn It!</movie>
+<movie id="tt0084628" locs="0">Sans soleil</movie>
+<movie id="tt0063550" locs="0">Satanis</movie>
+<movie id="tt0257100" locs="0">Saucy Aussie, The</movie>
+<movie id="tt0367462" locs="0">Say Yes Quickly</movie>
+<movie id="tt0323898" locs="0">Scene in Chinatown</movie>
+<movie id="tt0075651" locs="0">Schock</movie>
+<movie id="tt0207083" locs="0">Scoring!</movie>
+<movie id="tt0292650" locs="0">Screen Snapshots Series 21, No. 4</movie>
+<movie id="tt0237706" locs="0">Sculptress, The</movie>
+<movie id="tt0367015" locs="0">Sea Gulls Following Fishing Boats</movie>
+<movie id="tt0218587" locs="0">Sea Lions' Home, The</movie>
+<movie id="tt0072130" locs="0">Second Coming of Suzanne, The</movie>
+<movie id="tt0379805" locs="0">See You in the Future...</movie>
+<movie id="tt0338422" locs="0">Seeking Felicity</movie>
+<movie id="tt0240890" locs="0">Serendipity</movie>
+<movie id="tt0081485" locs="0">Serial</movie>
+<movie id="tt0102886" locs="0">Seung sing gusi</movie>
+<movie id="tt0177215" locs="0">Seven Girlfriends</movie>
+<movie id="tt0054297" locs="0">Seventh Commandment, The</movie>
+<movie id="tt0396212" locs="0">Sexual Harassment</movie>
+<movie id="tt0102900" locs="0">Shattered</movie>
+<movie id="tt0400814" locs="0">She Kept Silent</movie>
+<movie id="tt0108117" locs="0">Sherlock Holmes Returns</movie>
+<movie id="tt0084675" locs="0">Shoot the Moon</movie>
+<movie id="tt0096098" locs="0">Shoot to Kill</movie>
+<movie id="tt0170572" locs="0">Show Me Your Tattoo</movie>
+<movie id="tt0102920" locs="0">Shuttlecock</movie>
+<movie id="tt0091954" locs="0">Sid and Nancy</movie>
+<movie id="tt0221553" locs="0">Silencio</movie>
+<movie id="tt0207104" locs="0">Sins of the Fleshapoids</movie>
+<movie id="tt0207105" locs="0">Sip the Wine</movie>
+<movie id="tt0105417" locs="0">Sister Act</movie>
+<movie id="tt0108147" locs="0">Sister Act 2: Back in the Habit</movie>
+<movie id="tt0389379" locs="0">Sister Sausalito</movie>
+<movie id="tt0389380" locs="0">Sisters!</movie>
+<movie id="tt0396867" locs="0">Six String Man</movie>
+<movie id="tt0214140" locs="0">Skeleton Woman</movie>
+<movie id="tt0139617" locs="0">Sleep When You're Dead</movie>
+<movie id="tt0277322" locs="0">Sleepy Time Gal, The</movie>
+<movie id="tt0408195" locs="0">Slide Ranch: Where the Bay Area Gets Down to Earth</movie>
+<movie id="tt0086323" locs="0">Slow Moves</movie>
+<movie id="tt0386044" locs="0">Snapshots</movie>
+<movie id="tt0105435" locs="0">Sneakers</movie>
+<movie id="tt0045161" locs="0">Sniper, The</movie>
+<movie id="tt0389387" locs="0">Snow, The</movie>
+<movie id="tt0108174" locs="0">So I Married an Axe Murderer</movie>
+<movie id="tt0253725" locs="0">Soarin' Over California</movie>
+<movie id="tt0390495" locs="0">Social History of Virginity, The</movie>
+<movie id="tt0157053" locs="0">Some Prefer Cake</movie>
+<movie id="tt0062289" locs="0">Something's Happening</movie>
+<movie id="tt0029589" locs="0">Song of the City</movie>
+<movie id="tt0230803" locs="0">Songs for Cassavetes</movie>
+<movie id="tt0072195" locs="0">Space Is the Place</movie>
+<movie id="tt0128584" locs="0">Sparkle's Tavern</movie>
+<movie id="tt0061014" locs="0">Spie vengono dal semifreddo</movie>
+<movie id="tt0194399" locs="0">Spite Bride, The</movie>
+<movie id="tt0344373" locs="0">Spring in San Francisco</movie>
+<movie id="tt0217818" locs="0">Squirrel Nut Zippers: Musical Candy</movie>
+<movie id="tt0092007" locs="0">Star Trek IV: The Voyage Home</movie>
+<movie id="tt0194403" locs="0">Starlets, The</movie>
+<movie id="tt0403535" locs="0">Starring: Rosa Furr... and Other Queer Tales</movie>
+<movie id="tt0070731" locs="0">Steelyard Blues</movie>
+<movie id="tt0145531" locs="0">Stigmata</movie>
+<movie id="tt0122734" locs="0">Stilleben</movie>
+<movie id="tt0240937" locs="0">Stonewashed</movie>
+<movie id="tt0357204" locs="0">Straight Out</movie>
+<movie id="tt0027050" locs="0">Stranded</movie>
+<movie id="tt0066415" locs="0">Strawberry Statement, The</movie>
+<movie id="tt0083129" locs="0">Street Music</movie>
+<movie id="tt0069323" locs="0">Streets of San Francisco, The</movie>
+<movie id="tt0411925" locs="0">Stuck</movie>
+<movie id="tt0396237" locs="0">Suck Club</movie>
+<movie id="tt0045205" locs="0">Sudden Fear</movie>
+<movie id="tt0086383" locs="0">Sudden Impact</movie>
+<movie id="tt0367105" locs="0">Sunday Afternoon</movie>
+<movie id="tt0055490" locs="0">Susan Slade</movie>
+<movie id="tt0218649" locs="0">Sutro Baths, No. 1</movie>
+<movie id="tt0217833" locs="0">Sutro Baths, No. 2</movie>
+<movie id="tt0411931" locs="0">Swap</movie>
+<movie id="tt0230838" locs="0">Sweet November</movie>
+<movie id="tt0382327" locs="0">Sweetest Compassion: The Gunther Palmer Story</movie>
+<movie id="tt0253867" locs="0">Sweetest Thing, The</movie>
+<movie id="tt0358722" locs="0">Swing</movie>
+<movie id="tt0331665" locs="0">Syen</movie>
+<movie id="tt0371407" locs="0">Sylvia's Baklava</movie>
+<movie id="tt0081593" locs="0">Taboo</movie>
+<movie id="tt0057553" locs="0">Taiheiyo hitori-bochi</movie>
+<movie id="tt0065063" locs="0">Take the Money and Run</movie>
+<movie id="tt0411935" locs="0">Tall Trees</movie>
+<movie id="tt0076797" locs="0">Tang ren jie xiao zi</movie>
+<movie id="tt0283037" locs="0">Tanging yaman</movie>
+<movie id="tt0259040" locs="0">Tarts, The</movie>
+<movie id="tt0413349" locs="0">Tea with Tiffany</movie>
+<movie id="tt0270688" locs="0">Teknolust</movie>
+<movie id="tt0076804" locs="0">Telefon</movie>
+<movie id="tt0081611" locs="0">Tell Me a Riddle</movie>
+<movie id="tt0014532" locs="0">Ten Commandments, The</movie>
+<movie id="tt0080005" locs="0">Tenspeed and Brown Shoe</movie>
+<movie id="tt0111399" locs="0">Terminal USA</movie>
+<movie id="tt0039020" locs="0">That Brennan Girl</movie>
+<movie id="tt0128740" locs="0">That's My Daughter</movie>
+<movie id="tt0066450" locs="0">They Call Me MISTER Tibbs!</movie>
+<movie id="tt0088256" locs="0">Thief of Hearts</movie>
+<movie id="tt0041958" locs="1">Thieves' Highway</movie>
+<movie id="tt0365839" locs="0">Things Fall Apart</movie>
+<movie id="tt0393875" locs="0">Third Wish, The</movie>
+<movie id="tt0153031" locs="0">This Space Between Us</movie>
+<movie id="tt0196155" locs="0">Thousands of Miles</movie>
+<movie id="tt0183887" locs="0">Three Days</movie>
+<movie id="tt0405381" locs="0">Three-Cornered Hat, The</movie>
+<movie id="tt0196158" locs="0">Ticker</movie>
+<movie id="tt0032036" locs="0">Til Vesterheimen</movie>
+<movie id="tt0080025" locs="0">Time After Time</movie>
+<movie id="tt0184956" locs="0">Time Lord from U.N.C.L.E., The</movie>
+<movie id="tt0088275" locs="0">Times of Harvey Milk, The</movie>
+<movie id="tt0117918" locs="0">Tin Cup</movie>
+<movie id="tt0158277" locs="0">To Hell with Love</movie>
+<movie id="tt0063704" locs="0">Tod im roten Jaguar, Der</movie>
+<movie id="tt0016440" locs="0">Too Much Youth</movie>
+<movie id="tt0092100" locs="0">Torment</movie>
+<movie id="tt0072308" locs="0">Towering Inferno, The</movie>
+<movie id="tt0259680" locs="0">Toxic</movie>
+<movie id="tt0211142" locs="0">Traffic</movie>
+<movie id="tt0188247" locs="0">Trailer: The Movie</movie>
+<movie id="tt0181868" locs="0">Treasure Island</movie>
+<movie id="tt0041986" locs="0">Treasure of Monte Cristo</movie>
+<movie id="tt0278102" locs="0">Trembling Before G-d</movie>
+<movie id="tt0008696" locs="0">Trip Through China, A</movie>
+<movie id="tt0229790" locs="0">Troop Ships for the Philippines</movie>
+<movie id="tt0235833" locs="0">Troops Embarking at San Francisco</movie>
+<movie id="tt0364083" locs="0">Tryst</movie>
+<movie id="tt0096316" locs="0">Tucker: The Man and His Dream</movie>
+<movie id="tt0081666" locs="0">Turnover Smith</movie>
+<movie id="tt0351885" locs="0">Tweek City</movie>
+<movie id="tt0086489" locs="0">Twice Upon a Time</movie>
+<movie id="tt0315297" locs="0">Twisted</movie>
+<movie id="tt0369035" locs="0">Tyranny</movie>
+<movie id="tt0096349" locs="0">Tüchtigen gehört die Welt, Den</movie>
+<movie id="tt0141926" locs="0">U-571</movie>
+<movie id="tt0096328" locs="0">U2: Rattle and Hum</movie>
+<movie id="tt0065148" locs="0">Una sull'altra</movie>
+<movie id="tt0156152" locs="0">Under Arrest</movie>
+<movie id="tt0218687" locs="0">Under the Black Flag</movie>
+<movie id="tt0328589" locs="0">Under the Tuscan Sun</movie>
+<movie id="tt0403638" locs="0">Understudy, The</movie>
+<movie id="tt0202646" locs="0">Unfortunate Sex, The</movie>
+<movie id="tt0118044" locs="0">Unhook the Stars</movie>
+<movie id="tt0228997" locs="0">United States Army in San Francisco</movie>
+<movie id="tt0120417" locs="0">Unknown Cyclist, The</movie>
+<movie id="tt0365882" locs="0">Untitled Tim Vigil Project</movie>
+<movie id="tt0029719" locs="0">Unusual Occupations</movie>
+<movie id="tt0085106" locs="0">V</movie>
+<movie id="tt0004757" locs="0">Valley of the Moon, The</movie>
+<movie id="tt0103192" locs="0">Vegas in Space</movie>
+<movie id="tt0408312" locs="0">Vern</movie>
+<movie id="tt0052357" locs="1">Vertigo</movie>
+<movie id="tt0170765" locs="0">Veteranos</movie>
+<movie id="tt0155350" locs="0">Video Dead</movie>
+<movie id="tt0090264" locs="0">View to a Kill, A</movie>
+<movie id="tt0230953" locs="0">Virtue</movie>
+<movie id="tt0358264" locs="0">Voluptuous Vixens</movie>
+<movie id="tt0084874" locs="0">Volver a empezar</movie>
+<movie id="tt0328617" locs="0">WCW Superbrawl VIII</movie>
+<movie id="tt0406326" locs="0">WWE No Way Out</movie>
+<movie id="tt0073882" locs="0">Warlock Moon</movie>
+<movie id="tt0389525" locs="0">Wasted Energy</movie>
+<movie id="tt0187589" locs="0">Watchtower Over Tomorrow</movie>
+<movie id="tt0364113" locs="0">Water Front of San Francisco</movie>
+<movie id="tt0291559" locs="0">Wave Twisters</movie>
+<movie id="tt0214297" locs="0">Way to Shadow Garden, The</movie>
+<movie id="tt0108530" locs="0">Web of Deception</movie>
+<movie id="tt0307654" locs="0">Wedding Advice: Speak Now or Forever Hold Your Peace</movie>
+<movie id="tt0209475" locs="0">Wedding Planner, The</movie>
+<movie id="tt0120889" locs="0">What Dreams May Come</movie>
+<movie id="tt0108551" locs="0">What's Love Got to Do with It</movie>
+<movie id="tt0069495" locs="0">What's Up, Doc?</movie>
+<movie id="tt0260558" locs="0">Whatever Happened to Susan Jane?</movie>
+<movie id="tt0400935" locs="0">When Helping Hurts</movie>
+<movie id="tt0111693" locs="0">When a Man Loves a Woman</movie>
+<movie id="tt0118149" locs="0">Where Truth Lies</movie>
+<movie id="tt0204972" locs="0">Where's George?</movie>
+<movie id="tt0379021" locs="0">Widdershins</movie>
+<movie id="tt0144688" locs="0">Wildflowers</movie>
+<movie id="tt0090327" locs="0">Witchboard</movie>
+<movie id="tt0280204" locs="0">Witness of the Sun</movie>
+<movie id="tt0088414" locs="2">Woman in Red, The</movie>
+<movie id="tt0206420" locs="0">Woman on Top</movie>
+<movie id="tt0043142" locs="0">Woman on the Run</movie>
+<movie id="tt0006313" locs="0">Work</movie>
+<movie id="tt0088415" locs="0">Working Girls</movie>
+<movie id="tt0125599" locs="0">Working Girls</movie>
+<movie id="tt0240880" locs="0">Yi jian zhong qing</movie>
+<movie id="tt0300686" locs="0">Young Sluts, Inc. 4</movie>
+<movie id="tt0063829" locs="0">Yours, Mine and Ours</movie>
+<movie id="tt0072440" locs="0">Zebra Killer, The</movie>
+<movie id="tt0365964" locs="1">Zodiac Killer, The</movie>
+<movie id="tt0159149" locs="0">Zoo Story</movie>
+<movie id="tt0262021" locs="4">e-Dreams</movie>
+</sf-movies>
