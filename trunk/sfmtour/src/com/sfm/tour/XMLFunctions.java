@@ -23,6 +23,9 @@ import java.net.URLEncoder;
 
 public class XMLFunctions {
 
+	/*
+	 * Gets the movies that are tagged
+	 */
 	public ArrayList<Movie> getMovies() {
 		ArrayList<Movie> items = new ArrayList<Movie>();
 		Movie newMovie = null;
@@ -89,6 +92,9 @@ public class XMLFunctions {
 		return items;
 	}
 
+	/*
+	 * Get the tag information for movie with given title
+	 */
 	public Movie getMovieData(String title) {
 
 		Movie newMovie = null;
@@ -166,6 +172,9 @@ public class XMLFunctions {
 
 	}
 
+	/*
+	 * List of all movies shot in SF
+	 */
 	public ArrayList<String> getAllMovies(Context context) {
 		ArrayList<String> items = new ArrayList<String>();
 		ArrayList<String> taggedItems = new ArrayList<String>();
@@ -252,6 +261,10 @@ public class XMLFunctions {
 
 	}
 
+	/*
+	 * deprecated
+	 * No longer used
+	 */
 	public boolean writeFile(Context context) {
 		InputStream in = context.getResources()
 				.openRawResource(R.raw.moviedata);
@@ -278,6 +291,9 @@ public class XMLFunctions {
 
 	}
 
+	/*
+	 * Add tag information to the movie. Send it to server.
+	 */
 	public boolean addMovieTag(Context c, Movie movieToAdd) {
 		try {
 

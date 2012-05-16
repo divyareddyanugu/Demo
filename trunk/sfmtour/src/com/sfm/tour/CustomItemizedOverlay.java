@@ -44,10 +44,16 @@ public class CustomItemizedOverlay extends ItemizedOverlay<OverlayItem> {
 	// 1 - map marker with movie tag information
 	private int balloonType;
 
+	/*
+	 * Constructor
+	 */
 	public CustomItemizedOverlay(Drawable defaultMarker) {
 		super(boundCenterBottom(defaultMarker));
 	}
 
+	/*
+	 * overloaded  constructor
+	 */
 	public CustomItemizedOverlay(Drawable defaultMarker, Context context,
 			View v, int type) {
 		this(defaultMarker);
@@ -56,16 +62,31 @@ public class CustomItemizedOverlay extends ItemizedOverlay<OverlayItem> {
 		this.balloonType = type;
 	}
 
+	/*
+	 * (non-Javadoc)
+	 * @see com.google.android.maps.ItemizedOverlay#createItem(int)
+	 */
 	@Override
 	protected OverlayItem createItem(int i) {
 		return mapOverlays.get(i);
 	}
 
+	/*
+	 * (non-Javadoc)
+	 * @see com.google.android.maps.ItemizedOverlay#size()
+	 */
 	@Override
 	public int size() {
 		return mapOverlays.size();
 	}
 
+	/*
+	 * (non-Javadoc)
+	 * @see com.google.android.maps.ItemizedOverlay#onTap(int)
+	 * 
+	 * This function is called when the user taps on a marker in the map. A balloon is constructed with
+	 * the movie tag information and related photo (if it exists)
+	 */
 	@Override
 	protected boolean onTap(int index) {
 		OverlayItem item = mapOverlays.get(index);
@@ -139,6 +160,9 @@ public class CustomItemizedOverlay extends ItemizedOverlay<OverlayItem> {
 		return true;
 	}
 
+	/*
+	 * Get the id of the movie with title 'name'
+	 */
 	protected String getMovieId(String name) {
 
 		for (Movie m : SfmtourActivity.allMovieObjects) {
@@ -150,15 +174,24 @@ public class CustomItemizedOverlay extends ItemizedOverlay<OverlayItem> {
 
 	}
 
+	/*
+	 * Add a marker to the map
+	 */
 	public void addOverlay(OverlayItem overlay) {
 		mapOverlays.add(overlay);
 		this.populate();
 	}
 
+	/*
+	 * Clear all markers
+	 */
 	public void clearOverlays() {
 		mapOverlays.clear();
 	}
 
+	/*
+	 * Allows the app to connect to server
+	 */
 	private InputStream OpenHttpConnection(String urlString) throws IOException {
 		InputStream in = null;
 		int response = -1;
@@ -185,6 +218,9 @@ public class CustomItemizedOverlay extends ItemizedOverlay<OverlayItem> {
 		return in;
 	}
 
+	/*
+	 * Download the image from the server
+	 */
 	private Bitmap DownloadImage(String URL) {
 		Bitmap bitmap = null;
 		InputStream in = null;
