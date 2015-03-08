@@ -4,6 +4,8 @@ SF MOVIE TOUR
 Divya Reddy Anugu
 ******************************
 
+https://code.google.com/p/sfmovietour/wiki/Design
+
 List of all projects
 --------------------
 (1) sfmtour - The main project that implements all the features of the SF Movie Tour android mobile application
